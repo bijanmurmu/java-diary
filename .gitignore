@@ -1,0 +1,22 @@
+# Java class files
+*.class
+
+# IDE settings
+*.iml
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java temporary
+*.jar
+*.war
+*.ear
+
+# Environment files
+.env
