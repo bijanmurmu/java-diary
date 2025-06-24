@@ -1,4 +1,4 @@
-public class variables {
+public class Variables {
     public static void main(String[] args) {
         int age = 21;
         double height = 5.9;
